@@ -1,11 +1,15 @@
 theme: jekyll-theme-cayman
 title: Andrew Fisher
 email: andrew@andrewfisher.me
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Andrew is a proven software professional that has 8+ years experience and interest in
   defining, building, and implementing software in diverse industries (healthcare, high-tech,
   and government). He also is a serious triathlete and runner. This is his personal blog and
   portfolio website.
+keywords: >
+  triathlete, triathlon, technology, coding, android, freelance, freelancing, java, php, javascript,
+  html, css, sql, mdx, swim, swimming, bike, biking, run, running, python, angular, ionic, typescript,
+  product, management, engineer, engineering, computer, science, healthcare, tech, government
 twitter_username: abfisher0417
 github_username:  abfisher0417
 google_analytics: UA-57269906-1

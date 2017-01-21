@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  color: #fff;
+  text-align: center;
+  background: #262223 url(../images/header-bg.jpg) 0 0 repeat-x;
+}

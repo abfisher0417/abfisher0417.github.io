@@ -4,8 +4,12 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  color: #fff; # fallback for older browsers
-  color: rgba(255, 255, 255, 0.5);
+  color: #fff;
   text-align: center;
   background: #262223 url(../images/header-bg.png) 0 0 repeat-x;
+}
+
+.page-header h1 {
+  color: #fff;
+  color: rgba(255, 255, 255, 0.5);
 }
